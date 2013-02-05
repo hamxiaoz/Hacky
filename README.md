@@ -1,4 +1,4 @@
 Hacky
 =====
 
-Hacky, a mac app taht reads HN
+Hacky, a mac app that reads HN
